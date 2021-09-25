@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490443968138",
+    "firebase_url": "https://emtasks-9a5c9.firebaseio.com",
+    "project_id": "emtasks-9a5c9",
+    "storage_bucket": "emtasks-9a5c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490443968138:android:13a951644fa4c3de27e773",
+        "android_client_info": {
+          "package_name": "com.reactwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490443968138-827702keb8u2lvpoo61nf1sbk295jvvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGW_9hcl3GG1hwx-ahvB4-ApmRA9LPOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490443968138-827702keb8u2lvpoo61nf1sbk295jvvb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490443968138-buve5t89hippaofq37gpfkh9qlv07bb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "reactwithfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
